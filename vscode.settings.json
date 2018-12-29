@@ -7,6 +7,7 @@
     "extensions.autoUpdate": false,
     "extensions.ignoreRecommendations": true,
     "files.exclude": {
+        "**/*.pyc": true,
         "**/__pycache__": true,
         "**/.DS_Store": true,
         "**/*.class": true,
