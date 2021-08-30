@@ -1,28 +1,11 @@
 {
-    "editor.fontSize": 16,
-    "editor.tabSize": 4,
     "emmet.triggerExpansionOnTab": true,
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
-    "extensions.autoUpdate": false,
-    "extensions.ignoreRecommendations": true,
-    "files.exclude": {
-        "**/*.pyc": true,
-        "**/__pycache__": true,
-        "**/.DS_Store": true,
-        "**/*.class": true,
-        "**/.git": true,
-        "**/.hg": true,
-        "**/.svn": true
-    },
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
-    "git.confirmSync": false,
-    "java.errors.incompleteClasspath.severity": "ignore",
-    "python.linting.enabled": true,
-    "update.enableWindowsBackgroundUpdates": false,
-    "vsicons.dontShowNewVersionMessage": true,
-    "workbench.colorTheme": "Material Theme",
+    "terminal.integrated.defaultProfile.windows": "Ubuntu-20.04 (WSL)",
+    "workbench.colorTheme": "Default Light+",
     "workbench.editor.enablePreview": false,
-    "workbench.iconTheme": "vscode-icons"
+    "workbench.iconTheme": "material-icon-theme",
 }
