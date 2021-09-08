@@ -17,4 +17,5 @@
     "workbench.colorTheme": "Default Light+",
     "workbench.editor.enablePreview": false,
     "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "none"
 }
