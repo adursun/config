@@ -10,6 +10,7 @@
         "**/CVS": true,
         "**/.DS_Store": true,
         "**/**Zone.Identifier": true,
+        "**/__pycache__": true,
     },
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
@@ -17,5 +18,5 @@
     "workbench.colorTheme": "Default Light+",
     "workbench.editor.enablePreview": false,
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
 }
