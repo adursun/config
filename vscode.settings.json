@@ -2,6 +2,7 @@
     "emmet.triggerExpansionOnTab": true,
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
+    "extensions.autoUpdate": false,
     "extensions.ignoreRecommendations": true,
     "files.exclude": {
         "**/.git": true,
