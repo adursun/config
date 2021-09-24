@@ -6,6 +6,7 @@
     "extensions.ignoreRecommendations": true,
     "files.exclude": {
         "**/.git": true,
+        "**/.venv": true,
         "**/.svn": true,
         "**/.hg": true,
         "**/CVS": true,
